@@ -1,0 +1,38 @@
+.hero {
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 2em;
+    background-image: linear-gradient(to right, #392467, #38419D, #E36414, #E26EE5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;  
+    padding: 1rem; 
+}
+
+
+img {
+    width: 9rem;
+    transition: width 100ms ease-out 100ms;
+}
+
+img:hover {
+    cursor: pointer;
+    width: 9.2rem;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+h3 {
+    padding: 1em;
+}
