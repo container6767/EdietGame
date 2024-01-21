@@ -1,0 +1,11 @@
+{
+  "name": "edietgame",
+  "version": "1.0.0",
+  "description": "This a time pass ediotic game i made as my first javascript learning project. Press the red button to decrese the counter and the green to increase the counter.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
